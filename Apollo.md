@@ -36,8 +36,30 @@
     + Apollo 15 was the first mission that took the Lunar rovers, which allowed the astronauts to explore much more of the moon than the previous astronauts were able to
     + The Apollo 15 astronauts were some of the bst trained geologists to go to the moon, where they recovered sample 15415
     + They also carried a camera mounted on the rover, which could be controlled from the ground. This mission yielded some of the best footage of all of the Apollo missions
+- Apollo 16
+    + It was the only Apollo mission to land on the highlands of the moon (not in the Mare)
+    + They picked the landing site because they thought it would be similar to volcanic sites on Earth, such as Mt. St. Helens. Unfortunately, Apollo 16 was the only Apollo mission to bring back absolutely no volcanic rock, but rather had a lot fo impact crust
+- Apollo 17
+    + They landed on Mare Serenitatis Basalt, which is about 3.26 Byrs old
+    + They landed next to the aftermath of a landslide caused by debris from the impact of asteroid *Tycho*, which was about 0.1 Byrs ago (i.e. the Dinosaurs saw it happen)
 
 
 ## Moon Facts
 - Cumulative creater density = N(10) [The total number of craters equal to or larger than 10km per Million square km]
 - The largest features on the moon were formed by impacts from very large objects
+- The PRistine Highland Rock (Anorthosite/Genesis rock), is a piece of the original Lunar crust and is between 4.3 and 4.6 Byrs old
+    + What is unusual about this rock is that it has a very low density
+    + This rock is evidence that at one point there was an ocean of Magma due to its low density. If there was liquid, it would allow lower density material to settle on the top and therefore cool first
+    + It was retrieved durign Apollo 15
+- The samples we collected on the moon were used to form a positional age graph that let us extrapolate the various ages of different parts of the moon surface
+    + This graph lets us divide the history of the moon into different stages (see http://www.astro.washington.edu/users/smith/Astro150/Lectures/Apollo/Slide100.html)
+- Lunar regolith, which is the powdery surface of the moon is caused by all of the impacts over the years. This is the reason there are no 'sharp' features on the moon such as peaks, as most of its surface is Lunar Regolith which has a texture similar to that of flour
+- The Apollo mission showed us that the history of the moon has gone through stages, which would probably apply to all planets without an atmosphere. As the moon's surface has not changed significantly in the last Billion years, it is the our only accessible record for the history of the Solar System
+
+
+## Moon History Stages
+- Origin
+- Differentiation
+- Late Heavy Bombardment
+- Geological Activity
+- The Big Chill
