@@ -63,3 +63,20 @@
 - Late Heavy Bombardment
 - Geological Activity
 - The Big Chill
+
+
+## Origin of the Earth - Moon System
+- Conference on the origin of the Moon happened in Kona, Hawaii (1984)
+- Contraints that any given theory should explain
+    + Dynamic
+        * Mass of the moon
+        * Earth-Moon angular momentum
+        * Moon orbit inclination
+    + Chemical (derived from the study of samples)
+        * Lack of volatiles
+        * Oxygen isotopes like Earth
+        * Lack of Iron Core
+        * Magma Ocean
+- The mass of the moon is very large compared to its  parent planet (1.2% in the case of the moon and Earth)
+    + In many ways, the system of the earth and the moon is more similar to a double planet system than a master-slave system
+    + 
