@@ -1,4 +1,4 @@
-# Apollo - 4/7/15
+# The History of the Moon - 4/7/15, 4/9/15
 
 
 ## Question of the Day
@@ -16,7 +16,7 @@
 - Only two astronauts of the Apollo program were not military personnel during the program
 
 
-## Landings and Facts
+## Apollo Landings and Facts
 - Contrained to staying near the equator towards the center of the moon
 - The early missions to the moon were to relatively 'boring' parts of the moon to reduce landing complications
     + Apollo 11 landed in a lava plain called the 'Sea of Tranquility'
