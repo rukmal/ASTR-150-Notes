@@ -47,7 +47,7 @@
 ## Moon Facts
 - Cumulative creater density = N(10) [The total number of craters equal to or larger than 10km per Million square km]
 - The largest features on the moon were formed by impacts from very large objects
-- The PRistine Highland Rock (Anorthosite/Genesis rock), is a piece of the original Lunar crust and is between 4.3 and 4.6 Byrs old
+- The Pristine Highland Rock (Anorthosite/Genesis rock), is a piece of the original Lunar crust and is between 4.3 and 4.6 Byrs old
     + What is unusual about this rock is that it has a very low density
     + This rock is evidence that at one point there was an ocean of Magma due to its low density. If there was liquid, it would allow lower density material to settle on the top and therefore cool first
     + It was retrieved durign Apollo 15
