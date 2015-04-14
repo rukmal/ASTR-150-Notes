@@ -1,5 +1,6 @@
 # Planetary Vocabulary - 4/2/15
 
+
 ## Question of the Day
 - How were they formed?
 - What is the source of their energy?

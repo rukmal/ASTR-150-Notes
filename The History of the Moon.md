@@ -79,4 +79,3 @@
         * Magma Ocean
 - The mass of the moon is very large compared to its  parent planet (1.2% in the case of the moon and Earth)
     + In many ways, the system of the earth and the moon is more similar to a double planet system than a master-slave system
-    + 
