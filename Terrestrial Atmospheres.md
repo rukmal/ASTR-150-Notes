@@ -69,6 +69,8 @@
 - Additionally, due to a tilt similar to Earth, it has seasons that are comparable
     + Additionally, due to Mars's thin atmoshpere, atmospheric fluctuation is extremely dependent on the variances in evaporation of the ice caps on Mars, which is in turn dependent on the season it is in
 - Fluctuations in atmospheric pressures on Mars due to seasonal changes is VERY apparent - about half of the atmosphere appears and disappears through the cycle of the seasons
+- Due to the lwoer rgravity, the size of the layer where weather is presenst (scale height) is higher than that of Earth due to lower gravity
+    + Thus, it can be said that the atmosphere on Mars is more 'spread out' than on Earth
 
 
 ## Comparisons between the Terrestrial Atmospheres
