@@ -11,3 +11,4 @@ ARC 147
 |4/14/15|[Mercury and Marps 1 - Geological History](Mercury and Mars 1.md)|[Mercury and Mars 1 Slides](http://www.astro.washington.edu/users/smith/Astro150/Lectures/MerMarsI/Slide0.html)|
 |4/16/15|[Exploration of the Martian Surface](Exploration of the Martian Surface.md)|[Exploration of the Martian Surface Slides](http://www.astro.washington.edu/users/smith/Astro150/Lectures/MarsSurface/Slide0.html)|
 |4/23/15|[Terrestrial Atmospheres](Terrestrial Atmospheres.md)|[Terrestrial Atmospheres Slides](http://www.astro.washington.edu/users/smith/Astro150/Lectures/TerrAtm/Slide0.html)|
+|4/28/15|[Earth Impacts](Earth Impacts.md)|[Earth Impacts Slides](http://www.astro.washington.edu/users/smith/Astro150/Lectures/KT/Slide0.html)|
