@@ -42,3 +42,20 @@
 - Iridium is an extremely high density metal, in teh Platinum group of metals
     + They are known to dissolve very easily in Iron, so most of the iridium on Earth is foudn in the center of the core (which is molten iron)
     + It is however, VERY prevalent in meteors which helped the researchers reach the conclusion that the extinction of the dinosaurs was in fact caused by an asteroid
+- When analyzing old quartz crystals from the crus of the Earht, they found 'shocked' quartz
+    + This is a phenomenon caused by a 'displacement' in the quarts, caused by a large shockwave
+    + This can only be caused by quick processes, much much faster than tectonic/regular geological activity
+- These shocked quartz crystals are usually found around large impact craters
+- From this phenomenon, scientists found that shocked quartz in Europe was often a lot smaller than shock quartz in the US, which implies that the impact of the asteroid that killed the dinosaurs happened in the Western hemisphere
+- Near the K-T boundary in Haiti, scientists found many glass speres. Radiometric dating of these speres show that they were all about 65Myrs old
+- Scientists from UW determined that there were Tsunami deposits in the gulf of mexico, near the K-T beaches
+- Scientists found the Cicxulub impact crater in Mexico, which was about 300Km across (the expected size of a crater caused by the impact of a 10Km asteroid)
+- This impact crater was about 10km underground, but despite this it has surface expression due to sinkholes formed around the surface of this crater
+
+
+## Processes the Affected the Extinction
+- The impact event itself was far too small to kill all of the dinosaurs
+- This implies that the extinction was mainly caused by what happened after the impact of the crater
+- The impact eventually led to most of the Earth catching fire, due to dispersed sediment thrown up from the meteor re-entering the atmosphere. This then led to a decade-long dust storm that led to large environmental changes on the planet
+    + This dust storm caused sunlight to be blocked for decades to come, which caused the death of most of the top of the food chain (i.e. dinosaurs), as it led to the death of most large plants due to the lack of photosynthesis
+    + This means that mainly scanvengers survived - which were mammals
