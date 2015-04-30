@@ -1,5 +1,6 @@
 # Exploration of the Surface of Mars - 4/16/15
 
+
 ## Questions of the Day
 - How has our perception of Mars changed over the last 100 years?
 - Where do you look for water/life?

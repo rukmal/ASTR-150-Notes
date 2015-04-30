@@ -1,5 +1,6 @@
 # Earth Impacts (K-T) - 4/28/15
 
+
 ## Question of the Day
 - How do impact craters on Earth differ from those on other planets?
 - What is the evidence that a giant impact occured on Earth 65 million years ago?
