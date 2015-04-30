@@ -12,6 +12,11 @@
 - Remember units
 - No blob tectonics
 - Rarely asks greenhouse questions
+- No tides, crater population and todal forces in the midterm (it will be talked about more in the second half of the course)
+- Memorize rock and iron densities (3 and 8 respectively)
+- Review phase diagrams
+- No actual calcualtion questions will be asked, but the effects of changing one of the variables in the equation might be
+- No need to rememebr specific missions to planets (except for Apollo)
 
 
 ## Miscellaneous Facts
@@ -23,6 +28,12 @@
 - CO_2 is removed from the surface of Earth due to weathering of rocks, but this does not happen on Venus due to the lack of weathering as the atmosphere does not interact with the surface (also there is no life on Venus)
     + ef question: He makes up a world and tells us that the atmosphere does not interact with the surface, he would ask us why there is no CO_2 in the atmoshpere
 - Late heavy bombardment was 3.8 Byrs ago
+- Review differentiated and non-differentiated worlds
+    + In heated worlds, heavy materials sink to the center, and light materials float to the top
+- Mars does not have plate tectonics because there is no water on the surface
+- The water on mars disappeared because it does not have an ozone layer, which means UV light broke the double bond in O_2
+- The moon only has a small iron core because it was formed from non iron-rich materials
+- All gcraters on Mars are ghost craters because the surface is constantly being permutated by wind
 
 
 ## Common Mistakes
