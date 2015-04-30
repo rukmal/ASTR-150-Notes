@@ -16,4 +16,5 @@ ARC 147
 
 ## Review Sessions
 |Date|Review Session Title|
+|:--:|:------------------:|
 |4/29/15|[Midterm Exam Review](Midterm Review.md)|
