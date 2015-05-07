@@ -13,6 +13,7 @@ ARC 147
 |4/23/15|[Terrestrial Atmospheres](Terrestrial Atmospheres.md)|[Terrestrial Atmospheres Slides](http://www.astro.washington.edu/users/smith/Astro150/Lectures/TerrAtm/Slide0.html)|
 |4/28/15|[Earth Impacts](Earth Impacts.md)|[Earth Impacts Slides](http://www.astro.washington.edu/users/smith/Astro150/Lectures/KT/Slide0.html)|
 |5/5/15|[Meteorites](Meteorites.md)|[Meteorites Slides](http://www.astro.washington.edu/users/smith/Astro150/Lectures/Meteor/Slide0.html)|
+|5/7/15|[Asteroid Belt](Asteroid Belt.md)|[Asteroid Belt Slides](https://www.studyblue.com/notes/note/n/final/deck/1628220)|
 
 
 ## Review Sessions
