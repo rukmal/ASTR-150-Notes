@@ -14,6 +14,7 @@ ARC 147
 |4/28/15|[Earth Impacts](Earth Impacts.md)|[Earth Impacts Slides](http://www.astro.washington.edu/users/smith/Astro150/Lectures/KT/Slide0.html)|
 |5/5/15|[Meteorites](Meteorites.md)|[Meteorites Slides](http://www.astro.washington.edu/users/smith/Astro150/Lectures/Meteor/Slide0.html)|
 |5/7/15|[Asteroid Belt](Asteroid Belt.md)|[Asteroid Belt Slides](https://www.studyblue.com/notes/note/n/final/deck/1628220)|
+|5/12/15|[Outer Worlds](Outer Worlds.md)|[Outer Worlds Part 1 Slides](http://www.astro.washington.edu/users/smith/Astro150/Lectures/OuterMoonsI/Slide0.html)|
 
 
 ## Review Sessions
